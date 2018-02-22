@@ -1,0 +1,24 @@
+﻿{
+  "config": {
+    "isprog": true,
+    "redisconnection": "10.82.116.111:6379,password=shadowsocks,defaultdatabase=15,connectTimeout=10000,name=IF2017"
+  },
+  "dc2016": {
+    "passport": "31e4b39cbce94e2e98af3f0357bdff9b"
+  },
+  "rsa": {
+    "private_key": "<私钥>",
+    "public_key": "<公钥>"
+  },
+  "gclmars": {
+    "tick": 1, // 分钟，发送游戏日志提醒的间隔
+    "site": "http://10.32.64.204:25535",
+    "i100": 9706 //9351
+  },
+  "file": {
+    "ipexts": "var/webconfig/if2017/mydata4vipday2.datx"
+  },
+  "key": {
+    "signkey": "#erv$ed%@3l4"
+  }
+}

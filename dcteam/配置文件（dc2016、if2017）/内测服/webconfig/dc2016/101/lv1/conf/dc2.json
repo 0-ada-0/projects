@@ -1,0 +1,60 @@
+﻿{
+  "sys": {
+    "prog": true,
+    "isHerojoys": false,
+    "passport": "31e4b39cbce94e2e98af3f0357bdff9b",
+    "redisconnection": "127.0.0.1:6379,password=duoyi@2016,defaultdatabase=1,connectTimeout=10000,name=dc2016",
+    "mysqlconnection": "Data Source=127.0.0.1;User ID=root;Password=root;Initial Catalog=dc2016;Charset=utf8;Max pool size=512"
+  },
+  "share": {
+    "m2jt": "http://cm.duoyi.com/d/yx?code="
+  },
+  "2980": {
+    "passport": "0066b3f7-4183-4834-9adf-9695c220ea48"
+  },
+  "ws": {
+    "vipips": [
+      "219.132.195.247",
+      "183.61.86.25",
+      "113.106.204.153",
+      "121.9.242.64",
+      "121.9.205.4",
+      "121.9.242.65",
+      "121.9.242.99",
+      "121.9.242.98",
+      "121.9.242.97"
+    ]
+  },
+  "dy": {
+    "pname": {
+      "mx": "梦想世界",
+      "025": "领爱网(025.com)",
+      "dw": "梦想帝王",
+      "my": "命运之轮",
+      "sw": "神武2"
+    }
+  },
+  "urlformat": {
+    "getpass": "http://61.145.122.160:808/func/view.aspx?act=getpass&amp;gate={1}&amp;aid={0}",
+    "active": "http://61.145.122.160:808/func/view.aspx?act=active&amp;gate={1}&amp;aid={0}",
+    "activenp": "http://61.145.122.160:808/func/view.aspx?act=active&amp;np=1&amp;gate={1}&amp;aid={0}"
+  },
+  "gate": {
+    "025": "http://www.025.com/pages/Registe/reg_suc.aspx",
+    "jia": "http://jia.test.oa.com/Main/Regist/SuccessMsg.aspx?T=activation"
+  },
+  "friendlist": {
+    "name": [ "2980", "025", "henhaoji", "oa", "duoyi", "oa1", "oa2" ],
+    "ext": [ "2980.com", "025.com", "henhaoji.com", "oa.com", "duoyi.com", "oa1.com", "oa2.com" ]
+  },
+  "regvcode": {
+    "enable": true,
+    "products": [
+      "urs",
+      "xj",
+      "sw",
+      "mx",
+      "dw"
+    ]
+  }
+}

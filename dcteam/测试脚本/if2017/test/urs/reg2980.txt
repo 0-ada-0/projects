@@ -1,0 +1,33 @@
+2016-10-31 16:57:21-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/reg2980?sign=494039be2f8429cc58f1f0156ba38003091f11a5e549eddd0785276511cd8bde   account=&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":-98,"msg":"未知系统错误：Object reference not set to an instance of an object.","requestID":"8c02baa90a9c4a09804852d7ba1ea1c7","data":{}}
+2016-10-31 17:10:49-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/reg2980?sign=494039be2f8429cc58f1f0156ba38003091f11a5e549eddd0785276511cd8bde   account=&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":10303,"msg":"帐号已存在（手机）","requestID":"65c464cb0b754d9b8b46130b148b340a","data":{}}
+2016-10-31 17:20:01-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"e3bf99d4a1d04fabb1418dbd42ff4dab","data":{}}
+2016-10-31 17:37:53-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"2b20e0d3709d47e1900ab528ab5d2b73","data":{}}
+2016-10-31 21:32:10-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"1eecd144ac8b468eb53a122441ee2d8a","data":{}}
+2016-10-31 22:14:27-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":10009,"msg":"缺少passport参数","requestID":"6cc69b4d2a0a4c3e9d75ba1a95098778","data":{}}
+2016-11-01 16:20:17-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":10303,"msg":"帐号已存在（手机）","requestID":"4c3be0c21b3e499a9fdd5cbe89480618","data":{}}
+2016-11-01 17:29:17-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":10005,"msg":"短信验证KEY不能为空","requestID":"da7cc28741d9460abf2c90dbdead045e","data":{}}
+2016-11-01 19:15:32-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/reg2980?sign=ce2d16c429522209c2ea8aea25322b4cf0b640505aa572a14e5f27d866cc5658   account=liuxiaoqinaga&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":10303,"msg":"帐号已存在（手机）","requestID":"b4aad0f7c51d424bba9b9c44545f1c44","data":{}}
+2016-11-02 16:09:03-------------------------------------------------------------------------------------------
+request:https://if7.duoyi.com/urs/reg2980?sign=c18a2ca0323f35de4a6e5368d8973166eff0e7d5c6b90ae0733218491ebd6c34   account=liuxiaoqinagab&idnumber=&mobile=13268247551&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":10303,"msg":"帐号已存在（手机）","requestID":"8feb3b8c7e7340a1b9b3108ca54e4814","data":{}}
+2016-11-02 16:09:33-------------------------------------------------------------------------------------------
+request:https://if7.duoyi.com/urs/reg2980?sign=27ccb53c8008874613eb8717de399e5c1f257d987d92bc5de4f618ecdecdcdca   account=liuxiaoqinagab&idnumber=&mobile=13268247566&name=&password=e10adc3949ba59abbe56e057f20f883e&smscode=&smskey=&
+response:{"code":0,"msg":null,"requestID":"9dd52e075e13486a9dce61ef8f995e13","data":{}}

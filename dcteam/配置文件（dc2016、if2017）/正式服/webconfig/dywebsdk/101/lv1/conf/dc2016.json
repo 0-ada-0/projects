@@ -1,0 +1,156 @@
+{
+  "ini": {
+    "henhaoji": {
+      "default": 0,
+      "port": 8088,
+      "passport": "8890a290fec9437283238fff4e653613",
+      "servers": [
+        "121.201.116.194",
+        "121.201.116.27",
+        "119.186.15.133",
+        "220.231.248.73",
+        "113.106.204.12",
+        "113.106.204.38",
+        "113.106.204.55",
+        "113.106.204.101",
+        "183.61.80.194",
+        "183.61.86.27"
+      ]
+    },
+    "icc": {
+      "host": "http://121.201.102.46:10801/apie",
+      "token": "lnfs5qbancda0vww30twrw63",
+      "key": "gva7igjkfw0ick60pkutmyyxk7ni5l39",
+      "iv": null
+    },
+    "api": {
+      "wnt": {
+        "baseaddress": "http://10.82.195.69:20201",
+        "privatehost": "http://10.82.116.44:21801",
+        "message": {
+          "url": "message"
+        }
+      },
+      "2980": {
+        "baseaddress": "http://gp.2980.com",
+        "funswregister": {
+          "url": "funswregister.aspx"
+        }
+      },
+      "dc_urs_r": {
+        "baseaddress": "http://121.201.102.241:11011/urs/R",
+        "acct_getnumberbyemail": {
+          "url": "acct_getnumberbyemail.php"
+        },
+        "shell_websys_r": {
+          "url": "shell_websys_r.php"
+        },
+        "active_getlist": {
+          "url": "active_getlist.php"
+        },
+        "shell_websys_user_r": {
+          "url": "shell_websys_user_r.php"
+        },
+        "acct_getinfoforupgrade": {
+          "url": "acct_getinfoforupgrade.php"
+        },
+        "acct_getvalidinfo": {
+          "url": "acct_getvalidinfo.php"
+        }
+      },
+      "dc_urs_w": {
+        "baseaddress": "http://121.201.102.241:10111/urs/W",
+        "acct_reg": {
+          "url": "acct_reg.php"
+        },
+        "acct_setpass_mobile": {
+          "url": "acct_setpass_mobile.php"
+        },
+        "active_setav": {
+          "url": "active_setav.php"
+        },
+        "2980_acct_setpass": {
+          "url": "2980_acct_setpass.php"
+        },
+        "acct_bindmobile": {
+          "url": "acct_bindmobile.php"
+        }
+      },
+      "dc_xiyi_r": {
+        "baseaddress": "http://121.201.102.241:11010/xiyi/R",
+        "active_getlist": {
+          "url": "active_getlist.php"
+        }
+      },
+      "dc_xiyi_w": {
+        "baseaddress": "http://121.201.102.241:10110/xiyi/W",
+        "active_setav": {
+          "url": "active_setav.php"
+        }
+      },
+      "dc_sw_r": {
+        "baseaddress": "http://121.201.102.241:11009/sw/R",
+        "active_getlist": {
+          "url": "active_getlist.php"
+        }
+      },
+      "dc_sw_w": {
+        "baseaddress": "http://121.201.102.241:10109/sw/W",
+        "active_setav": {
+          "url": "active_setav.php"
+        },
+        "shell_cs": {
+          "url": "shell_cs.php"
+        }
+      },
+      "dc_mx_r": {
+        "baseaddress": "http://121.201.102.241:11008/mx/R",
+        "active_getlist": {
+          "url": "active_getlist.php"
+        },
+        "acct_getbymac": {
+          "url": "acct_getbymac.php"
+        }
+      },
+      "dc_mx_w": {
+        "baseaddress": "http://121.201.102.241:10108/mx/W",
+        "active_setav": {
+          "url": "active_setav.php"
+        },
+        "shell_cs": {
+          "url": "shell_cs.php"
+        }
+      },
+      "dc_xy_r": {
+        "baseaddress": "http://121.201.102.241:11006/xy/R",
+        "active_getlist": {
+          "url": "active_getlist.php"
+        }
+      },
+      "dc_xy_w": {
+        "baseaddress": "http://121.201.102.241:10106/xy/W",
+        "active_setav": {
+          "url": "active_setav.php"
+        },
+        "shell_cs": {
+          "url": "shell_cs.php"
+        }
+      },
+      "dc_dw_r": {
+        "baseaddress": "http://121.201.102.241:11007/dw/R",
+        "active_getlist": {
+          "url": "active_getlist.php"
+        }
+      },
+      "dc_dw_w": {
+        "baseaddress": "http://121.201.102.241:10107/dw/W",
+        "active_setav": {
+          "url": "active_setav.php"
+        },
+        "shell_cs": {
+          "url": "shell_cs.php"
+        }
+      }
+    }
+  }
+}

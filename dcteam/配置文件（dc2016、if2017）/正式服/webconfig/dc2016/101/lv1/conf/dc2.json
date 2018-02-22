@@ -1,0 +1,78 @@
+﻿{
+  "sys": {
+    "prog": false,
+    "isHerojoys": false,
+    "passport": "31e4b39cbce94e2e98af3f0357bdff9b",
+    "redisconnection": "127.0.0.1:6379,password=shadowsocks,defaultdatabase=1,connectTimeout=10000,name=dc2016",
+    "mysqlconnection": "Data Source=127.0.0.1;User ID=root;Password=e0de349627d34881a2494d8490987943;Initial Catalog=dc2016;Charset=utf8;Max pool size=512"
+  },
+  "share": {
+    "m2jt": "http://cm.duoyi.com/d/yx?code="
+  },
+  "2980": {
+    "passport": "0066b3f7-4183-4834-9adf-9695c220ea48"
+  },
+  "ws": {
+    "vipips": [
+      "121.9.245.141",
+      "183.61.80.194",
+      "183.61.80.206",
+      "58.255.253.158",
+      "61.142.132.77",
+      "121.9.242.64",
+      "121.9.242.65",
+      "121.9.242.99",
+      "121.9.242.98",
+      "121.9.242.97",
+      "127.0.0.1",
+      "61.145.122.160",
+      "121.8.235.150",
+      "121.8.235.149",
+      "183.63.82.146",
+      "183.63.82.147",
+      "183.63.82.148",
+      "183.63.82.149",
+      "183.63.82.150",
+      "58.19.228.14"
+    ]
+  },
+  "dy": {
+    "pname": {
+      "sw": "神武 逍遥外传",
+      "mx": "梦想世界",
+      "xy": "逍遥传说",
+      "dw": "梦想帝王",
+      "my": "命运之轮",
+      "urs": "多益通行证",
+      "025": "领爱网(025.com)",
+      "jia": "我家网",
+      "jia9": "家久久家居网"
+    }
+  },
+  "urlformat": {
+    "active": "http://hi.duoyi.com/active_{1}_{0}.html",
+    "activenp": "http://page.duoyi.com/activenp_{1}_{0}.html",
+    "getpass": "http://hi.duoyi.com/getpass_{1}_{0}.html"
+  },
+  "gate": {
+    "025": "http://www.025.com/pages/Registe/reg_suc.aspx",
+    "jia": "http://jia.test.oa.com/Main/Regist/SuccessMsg.aspx?T=activation",
+    "jia9": "http://www.jia99.com/func/func.aspx?act=webfunc&amp;ajax=autologin",
+    "urs1": "http://121.9.242.65:802/func/view.aspx?act=login",
+    "hr": "http://hr.henhaoji.com/WebPage/active.aspx"
+  },
+  "friendlist": {
+    "name": [ "2980", "025", "henhaoji", "oa", "duoyi", "oa1", "oa2" ],
+    "ext": [ "2980.com", "025.com", "henhaoji.com", "oa.com", "duoyi.com", "oa1.com", "oa2.com" ]
+  },
+  "regvcode": {
+    "enable": true,
+    "products": [
+      "urs",
+      "xj",
+      "sw",
+      "mx",
+      "dw"
+    ]
+  }
+}

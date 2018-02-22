@@ -1,0 +1,36 @@
+2016-10-29 16:07:39-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/get_2980pwd_by_mail?sign=03d829360eb40de21add00faf05d0caaf62813d2dc98aaf67b0123a7709ca5d8   account=InsistStrive@2980.com&
+response:{"code":19801,"msg":"找回密码失败(301,无效的签名)","requestID":"ea078cd39bac42a5bfd73e50ff818986","data":{}}
+2016-10-29 16:10:36-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":19801,"msg":"找回密码失败(301,无效的签名)","requestID":"4258cb7dab9b4d9ea7e9149440986e99","data":{}}
+2016-10-29 16:13:48-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=insiststrive&
+response:{"code":10300,"msg":"帐号不存在","requestID":"4df9cb1a321943269b695e988d45b9d3","data":{}}
+2016-10-29 16:15:47-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":10300,"msg":"帐号不存在","requestID":"4dc3bdf2b3e0474bb97ce6086265579f","data":{}}
+2016-10-29 16:57:45-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":10300,"msg":"帐号不存在","requestID":"76012a7adc7144ceb290847aa6290e8f","data":{}}
+2016-10-29 16:58:14-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":10300,"msg":"帐号不存在","requestID":"b483d118648f4173bf2e1e74580611f9","data":{}}
+2016-10-31 11:23:51-------------------------------------------------------------------------------------------
+request:https://if7c.duoyi.com/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"589ba54aaaea4d8a9c9e3cfb98774c92","data":{}}
+2016-10-31 11:27:41-------------------------------------------------------------------------------------------
+request:https://if7.duoyi.com/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"ed06198b21504493ad046955e62210fa","data":{}}
+2016-10-31 12:00:05-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":10300,"msg":"帐号不存在","requestID":"26588925e4244d0a8bedd3b2a4028deb","data":{}}
+2016-10-31 12:00:25-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"9c4b8548d52f46f4b657a188609efd0d","data":{}}
+2016-10-31 12:08:52-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"3a04d44a0b8a4bc88adc7b922b7ea10c","data":{}}
+2016-10-31 16:49:08-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/urs/get_2980pwd_by_mail?sign=aadaed5862cf4a3dd46c8ef4fa0703efbe9ab70a1455a1b36028ed1004d3707f   account=InsistStrive&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"0e0d60835fee43cda4058d56161cd994","data":{}}

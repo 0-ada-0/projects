@@ -1,0 +1,8 @@
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\bin\Debug\lucene_output.exe.config
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\bin\Debug\lucene_output.exe
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\bin\Debug\lucene_output.pdb
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\bin\Debug\Lucene.Net.dll
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\bin\Debug\Lucene.Net.pdb
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\obj\Debug\lucene_output.csprojResolveAssemblyReference.cache
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\obj\Debug\lucene_output.exe
+D:\workspace\C#\lucene_output\lucene_output\lucene_output\obj\Debug\lucene_output.pdb

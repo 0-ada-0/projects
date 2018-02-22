@@ -1,0 +1,16 @@
+﻿{
+  "apps": [
+    {
+      // Application #1
+      "name": "mywebapp",
+      "script": "sh.sh",
+      "cwd": "/home/ada/pm2",
+      "error_file": "/home/ada/logs/ada-err.log",
+      "out_file": "/home/ada/logs/ada-out.log",
+      "max_memory_restart": "500M",
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "production"
+      }
+    }
+  ]
+}

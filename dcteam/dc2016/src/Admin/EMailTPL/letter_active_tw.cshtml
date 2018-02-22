@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>註冊成功-@Model["产品名"]</title>
+    <style type="text/css">
+        body, ul, li {
+            margin: 0;
+            padding: 0;
+        }
+
+        ul, li {
+            list-style: none;
+        }
+
+        body {
+            font-family: "宋体";
+            font-size: 12px;
+        }
+
+        .container {
+            width: 600px;
+            margin: 0 auto;
+            position: relative;
+            padding-bottom: 60px;
+            background: url(http://imgxy.duoyi.com/logon/images1/letter_01_tw.jpg?t=222) no-repeat;
+            padding-top: 66px;
+            position: relative;
+        }
+
+        .bg {
+            background: url(http://imgxy.duoyi.com/logon/images1/letter_03.jpg);
+            width: 600px;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 411px;
+            z-index: -1;
+        }
+
+            .bg p {
+                position: absolute;
+                bottom: 15px;
+                text-align: center;
+                line-height: 18px;
+                width: 100%;
+            }
+
+        .lt_content {
+            background: url(http://imgxy.duoyi.com/logon/images1/linebg.gif);
+            min-height: 450px;
+            _height: 450px;
+            line-height: 27px;
+            width: 566px;
+            margin: 0 auto;
+            padding: 27px 5px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="lt_content">
+            親愛的@Model["产品名"]{#用户帐号名}：<Br />
+            您好！<Br />
+            恭喜您，您通過[@Model["来源产品名"]]註冊的@{@Model["产品名"]}帳號已成功註冊，請點擊以下連結進行啟動：<br />
+            <a target="_blank" href="@Model["链接地址"]">@Model["链接地址"]</a> <br />
+            您的登錄帳號為：@Model["用户帐号名"]，啟動後您就可以用這個帳號登錄@{@Model["产品名"]}了 。如連結發出後48小時，都未確認啟動，此帳號將失效。
+        </div>
+        <div class="bg">
+            <p>英雄網絡有限公司</p>
+        </div>
+    </div>
+</body>
+</html>

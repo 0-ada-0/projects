@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\workspace\c++\ioc\project1\project1\main.cpp(26): error C2275: “T”: 将此类型用作表达式非法
+  d:\workspace\c++\ioc\project1\project1\main.cpp(33): note: 参见“T”的声明
+  d:\workspace\c++\ioc\project1\project1\main.cpp(33): note: 参见对正在编译的函数 模板 实例化“T *IocContainer::Resolve<T>(const std::string &)”的引用
+          with
+          [
+              T=Base
+          ]
+  d:\workspace\c++\ioc\project1\project1\main.cpp(101): note: 参见对正在编译的函数 模板 实例化“std::shared_ptr<Base> IocContainer::ResolveShared<Base>(const std::string &)”的引用
+d:\workspace\c++\ioc\project1\project1\main.cpp(26): error C2672: “any_cast”: 未找到匹配的重载函数
+d:\workspace\c++\ioc\project1\project1\main.cpp(26): error C2974: 'std::any_cast' : 模板 对于 '_Ty'是无效参数，应为类型
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\any(555): note: 参见“std::any_cast”的声明
+d:\workspace\c++\ioc\project1\project1\main.cpp(26): error C2974: 'std::any_cast' : 模板 对于 '_ValueType'是无效参数，应为类型
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.11.25503\include\any(517): note: 参见“std::any_cast”的声明

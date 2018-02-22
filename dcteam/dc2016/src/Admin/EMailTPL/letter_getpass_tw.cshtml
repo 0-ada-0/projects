@@ -1,0 +1,83 @@
+﻿@model System.Collections.Hashtable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8" />
+    <title>密碼找回-@Model["产品名"]-多益網絡</title>
+    <style TYPE="text/css">
+        body, ul, li {
+            margin: 0;
+            padding: 0;
+        }
+
+        ul, li {
+            list-style: none;
+        }
+
+        body {
+            font-family: "宋体";
+            font-size: 12px;
+        }
+
+        .let_container {
+            width: 600px;
+            margin: 0 auto;
+            position: relative;
+            background: url(http://imgxy.duoyi.com/logon/images1/letter_03.jpg) no-repeat bottom;
+            padding: 66px 0;
+        }
+
+        p.let_bq {
+            position: absolute;
+            bottom: -53px;
+            text-align: center;
+            line-height: 18px;
+            width: 100%;
+            *bottom: 22px;
+        }
+
+        .let_bg {
+            background: url(http://imgxy.duoyi.com/logon/images1/letter_01_tw.jpg?t=222) no-repeat;
+            width: 600px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 411px;
+        }
+
+        .let_qm {
+            text-align: right;
+            padding: 27px 5px 0 0;
+        }
+
+        .let_content {
+            background: url(http://imgxy.duoyi.com/logon/images1/linebg.gif);
+            min-height: 250px;
+            _height: 250px;
+            line-height: 27px;
+            width: 566px;
+            margin: 0 auto;
+            padding: 27px 5px 0;
+            position: relative;
+            z-index: 9;
+        }
+    </style>
+</head>
+
+<body>
+    <div CLASS="let_container">
+        <div CLASS="let_content">
+            親愛的@{@Model["产品名"]}用戶：<Br />
+            您好！<Br />
+            您成功申請了對某帳號的密碼找回，請點擊以下鏈接按照提示進行修改密碼操作。祝您遊戲愉快！<br />
+            <a TARGET="_blank" HREF="@Model["链接地址"]">@Model["链接地址"]</a>
+
+            <div class="let_qm">@Model["产品名"]</div>
+            <p class="let_bq">英雄網絡有限公司</p>
+        </div>
+
+        <div CLASS="let_bg"></div>
+    </div>
+</body>
+</html>

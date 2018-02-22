@@ -1,0 +1,87 @@
+{
+  "ini": {
+    "icc": {
+      "host": "http://121.201.102.46:10801/apie",
+      "token": "3x4p3ppdbkq96v6vg2956vyt",
+      "key": "pquu2wtjyfzqdgqmrl7huebz0zcyflnn",
+      "iv": null
+    },
+    "api": {
+      "dc2016": {
+        "baseaddress": "https://dc6.duoyi.com",
+        "getimgcode": {
+          "url": "dc2/urs/getimgcode"
+        },
+        "getacctinfo": {
+          "url": "dc2/urs/getacctinfo"
+        },
+        "reg": {
+          "url": "dc2/urs/reg"
+        },
+        "valid_mobile": {
+          "url": "dc2/urs/valid_mobile"
+        },
+        "get_pwd_by_mobile": {
+          "url": "dc2/urs/get_pwd_by_mobile"
+        },
+        "get_pwd_by_mail": {
+          "url": "dc2/urs/get_pwd_by_mail"
+        },
+        "reg2980": {
+          "url": "dc2/urs/reg2980"
+        },
+        "get_2980pwd_by_mobile": {
+          "url": "dc2/urs/get_2980pwd_by_mobile"
+        },
+        "get_2980pwd_by_mail": {
+          "url": "dc2/urs/get_2980pwd_by_mail"
+        },
+        "active": {
+          "url": "dc2/urs/active"
+        },
+        "resend_active_mail": {
+          "url": "dc2/urs/resend_active_mail"
+        },
+        "get_acct_by_mac": {
+          "url": "dc2/urs/get_acct_by_mac"
+        },
+        "get_acct_by_mobile": {
+          "url": "dc2/urs/get_acct_by_mobile"
+        },
+        "isexist_acct": {
+          "url": "dc2/urs/isexist_acct"
+        },
+        "bindassociationmobile": {
+          "url": "dc2/urs/bindassociationmobile"
+        }
+      },
+      "dc2": {
+        "baseaddress": "http://121.201.102.241:10116",
+        "resend_active_mail": {
+          "url": "func/p/pdc2.aspx"
+        }
+      },
+      "dk": {
+        "baseaddress": "http://dk.duoyi.com/sales",
+        "wxpayms_getordid": {
+          "url": "func/func.aspx",
+          "wlist": [ "127.0.0.1", "::1", "localhost" ],
+          "passport": [
+            "e10adc3949ba59abbe56e057f20f883e"
+          ]
+        }
+      },
+      "apple": {
+        "baseaddress": null,
+        "buy_itunes_verifyreceipt": {
+          "url": "https://buy.itunes.apple.com/verifyReceipt",
+          "wlist": [ "219.132.195.171", "121.8.235.150", "121.8.235.149", "121.8.235.148", "121.9.227.11", "121.9.242.99", "127.0.0.1", "183.61.80.187", "163.177.161.139", "61.142.132.34", "113.106.204.10", "::1", "localhost" ]
+        },
+        "sandbox_itunes_verifyreceipt": {
+          "url": "https://sandbox.itunes.apple.com/verifyReceipt",
+          "wlist": [ "219.132.195.171", "121.8.235.150", "121.8.235.149", "121.8.235.148", "121.9.227.11", "121.9.242.99", "127.0.0.1", "183.61.80.187", "163.177.161.139", "61.142.132.34", "113.106.204.10", "::1", "localhost" ]
+        }
+      }
+    }
+  }
+}

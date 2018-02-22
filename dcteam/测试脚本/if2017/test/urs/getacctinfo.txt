@@ -1,0 +1,15 @@
+2016-11-03 20:22:45-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/getacctinfo?sign=78431c7bec4de17cb7c8375158d7d723bf1ab8e7d4a7e7fa5ee568f36f2dd526   account=940235644@qq.com&gate=sw&
+response:{"code":-98,"msg":"未知系统错误：调用DC发生异常(URS,R,shell_websys_r)","requestID":"48f747d046a54c3a82cd31c3411b1425","data":{}}
+2016-11-03 20:25:06-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/getacctinfo?sign=78431c7bec4de17cb7c8375158d7d723bf1ab8e7d4a7e7fa5ee568f36f2dd526   account=940235644@qq.com&gate=sw&
+response:{"code":-98,"msg":"未知系统错误：请求DC2016发生异常","requestID":"3c1b90883ecd4a3d82a565111e5deca1","data":{}}
+2016-11-03 20:29:15-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/getacctinfo?sign=78431c7bec4de17cb7c8375158d7d723bf1ab8e7d4a7e7fa5ee568f36f2dd526   account=940235644@qq.com&gate=sw&
+response:{"code":0,"msg":"","requestID":"785f84bd166c430488eca84d17e76740","data":{"email":"940235644@qq.com","mobile":"183*****265","qq":""}}
+2016-11-03 20:41:06-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/getacctinfo?sign=9953c31c6eb7b01f52b946eb7193d0700fd1f20a4e40ccd47a34c22bd53b97c2   account=romic005@2980.com&gate=sw&
+response:{"code":0,"msg":"","requestID":"58ef63c014934a55b5ea861ae5851327","data":{"phone":"135*****001","qq":""}}
+2016-11-03 20:43:05-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/getacctinfo?sign=9479f88d1b84a1df233122e756fedca83e482924ad552e06d2e05d0267337d94   account=13268247551&gate=sw&
+response:{"code":0,"msg":"","requestID":"c6f8f055e8a94e1eb9688cc1a06237e3","data":{"phone":"132*****551","qq":""}}

@@ -1,0 +1,54 @@
+2016-10-31 11:26:11-------------------------------------------------------------------------------------------
+request:https://if7c.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (The remote server returned an error: (401) Unauthorized.)","requestID":"fd5a0cd686e449f18e4a17211239665e","data":{}}
+2016-10-31 12:01:44-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING)","requestID":"d57e48d6b8354b7dbb4e2bed96044c42","data":{}}
+2016-10-31 22:57:04-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":0,"msg":"发送成功","requestID":"cf1d869b462a4b0fbbe4d608af6c9176","data":{"smskey":"00b4f2bdeb6e41499b3adef971b888c4"}}
+2016-11-01 19:23:12-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":0,"msg":"发送成功","requestID":"6740217c325a4112b064d691b5765e00","data":{"smskey":"96c7dffbc25346d7bee239021ab9abfb"}}
+2016-11-02 10:13:28-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":-98,"msg":"未知系统错误：Value cannot be null.\nParameter name: 参数不能为空","requestID":"47d3c10af68943e998ea01a66b28f166","data":{}}
+2016-11-02 10:17:14-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":-98,"msg":"未知系统错误：Value cannot be null.\r\nParameter name: 参数不能为空","requestID":"5f67d6b33c0b4b8ea97f687bc0513c9d","data":{}}
+2016-11-02 10:20:12-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (Response status code does not indicate success: 401 (Unauthorized).)","requestID":"f2c4d6ee03904a07b61f694ae73c8165","data":{}}
+2016-11-02 10:28:37-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":0,"msg":"发送成功","requestID":"831c0f1c89584dd9ab8690ec6d9023e8","data":{}}
+2016-11-02 10:38:21-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":0,"msg":"发送成功","requestID":"fb9360aa1a7446c8a06d011e3415f42b","data":{"smskey":"71b57a50cd804336a4bd202c4f89f824"}}
+2016-11-02 20:24:20-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":0,"msg":"发送成功","requestID":"5e58510c3797420a9553d2d2c905a1ff","data":{"smskey":"2378cf9105844eaca3356be56ecfff54"}}
+2016-11-02 20:25:25-------------------------------------------------------------------------------------------
+request:https://if7.duoyi.com/common/sendsmscode?sign=d68e659b7bc32db449af7e28c2b75532529dbc53f40451f1bdf60b1592568f7a   pname=mf&telnumbers=13268247551&type=3&
+response:{"code":10000,"msg":"参数错误(message)","requestID":"6e573dc3525649c0a2fb56d17541a8b8","data":{}}
+2016-11-02 20:42:45-------------------------------------------------------------------------------------------
+request:https://if7.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (Response status code does not indicate success: 401 (Unauthorized).)","requestID":"f12dd4feb75e4c5f82fbb8a5ac7f1df6","data":{}}
+2016-11-02 20:47:53-------------------------------------------------------------------------------------------
+request:https://if7.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (Response status code does not indicate success: 401 (Unauthorized).)","requestID":"eb09a91e7e5b4185a3abf37eea92f266","data":{}}
+2016-11-03 12:44:45-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (Response status code does not indicate success: 401 (Unauthorized).)","requestID":"890a5b50bba94874972e02fb2a5c9bb5","data":{}}
+2016-11-04 12:46:27-------------------------------------------------------------------------------------------
+request:https://if7a.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":0,"msg":"发送成功","requestID":"a04ac476aa324547b7ea50dbe21114c8","data":{"smskey":"8ed036ce43b540f2bae8435e5f547990"}}
+2016-11-04 12:46:52-------------------------------------------------------------------------------------------
+request:https://if7b.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":0,"msg":"发送成功","requestID":"a6b66aecd7f54d6baabede962b783dce","data":{"smskey":"9268494a210b4052bd07e4f4ffcca30c"}}
+2016-11-04 12:47:13-------------------------------------------------------------------------------------------
+request:https://if7c.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (Response status code does not indicate success: 401 (Unauthorized).)","requestID":"5a94006a571448c893629118c8b47dff","data":{}}
+2016-11-04 12:47:30-------------------------------------------------------------------------------------------
+request:https://if7d.duoyi.com/common/sendsmscode?sign=c7fc1f5e8b32d5f352107ec2f026b79bbe46ef53e7c0747b2e42e068a4bd754b   pname=mf&telnumbers=13268247551&type=1&
+response:{"code":-98,"msg":"未知系统错误：One or more errors occurred. (Response status code does not indicate success: 401 (Unauthorized).)","requestID":"926f08bbfb3e4bd98df6cd0c02456141","data":{}}

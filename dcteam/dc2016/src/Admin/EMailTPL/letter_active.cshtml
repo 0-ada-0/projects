@@ -1,0 +1,141 @@
+﻿@model System.Collections.Hashtable
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <title>注册成功-@Model["产品名"]</title>
+    <meta charset="utf-8" />
+    <meta name="apple-touch-fullscreen" content="YES" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta http-equiv="pragram" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="x5-orientation" content="portrait" />
+    <meta name="full-screen" content="yes" />
+    <meta name="x5-fullscreen" content="true" />
+</head>
+
+<body>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        strong {
+            font-weight: bold;
+        }
+
+        .red {
+            color: #f00;
+        }
+
+        .blue {
+            color: #0066cc;
+        }
+
+        .gray {
+            color: #a0a0a0;
+        }
+
+        .font18 {
+            font-size: 18px;
+        }
+
+        .font14 {
+            font-size: 14px;
+        }
+
+        .g-mg10_0 {
+            margin: 10px 0;
+        }
+
+        .head img {
+            display: block;
+            width: 100%;
+        }
+
+        .con p {
+            text-indent: 2em;
+        }
+
+        .con .p1 {
+            text-indent: 0;
+        }
+
+        .qrcode {
+            background-color: #FFFFFF;
+            box-shadow: 0 0 5px 2px #ccc;
+            padding: 10px 0;
+            margin-top: 10px;
+        }
+
+            .qrcode p {
+                text-align: center;
+                text-indent: 0;
+            }
+
+            .qrcode img {
+                display: block;
+                margin: 5px auto;
+            }
+
+        .qx-tip {
+            margin: 15px 0;
+        }
+
+        .foot img {
+            display: block;
+            width: 100%;
+        }
+
+        @@media only screen and (max-width: 640px) {
+            .main {
+                width: 100%;
+            }
+
+            .con {
+                padding: 0 30px;
+            }
+        }
+
+        @@media only screen and (max-width: 320px) {
+            .con {
+                font: 14px/1.8 "Helvetica Neue",Helvetica,"Hiragino Sans GB","STHeitiSC-Light","Microsoft YaHei","Microsoft yahei",Arial,sans-serif;
+            }
+
+            .font18 {
+                font-size: 16px;
+            }
+
+            .font14 {
+                font-size: 12px;
+            }
+
+            .con {
+                padding: 0 25px;
+            }
+        }
+    </style>
+    <div style="width: 640px; margin: 0 auto;">
+        <div class="head" style="line-height:0;font-size:0">
+            <a href="http://hi.duoyi.com/func/v.aspx?ac=link&id=2015050701&url=http://www.duoyi.com/" target="_blank"
+               title="多益网络"><img src="http://images.2980.com/mail/bg_top.png" alt="" style="border:0" /></a>
+        </div>
+        <div style="zoom:1;background: url(http://images.2980.com/mail/bg_center.png) left top repeat-y; background-size: 100%;font: 16px/2 'Helvetica Neue',Helvetica,'Hiragino Sans GB',STHeitiSC-Light,'Microsoft YaHei','Microsoft yahei',Arial,sans-serif;overflow: hidden;padding: 0 50px;word-wrap: break-word;word-break: break-all;">
+            亲爱的 @Model["用户帐号名"]：<Br />
+            您好！恭喜您，您通过[@Model["来源产品名"]]注册的@{@Model["产品名"]}帐号已成功注册，请点击以下链接进行激活：<br />
+            <a target="_blank" href="@Model["链接地址"]">@Model["链接地址"]</a> <br />
+            您的登录帐号为：@Model["用户帐号名"]，激活后您就可以用这个帐号登录@{@Model["来源产品名"]}了 。如链接发出后48小时，都未确认激活，此帐号将失效。
+            <p style="text-align:right;margin:0 0 2em">多益网络</p>
+        </div>
+        <div class="foot">
+            <a class="footLogo" href="http://hi.duoyi.com/func/v.aspx?ac=link&id=2015050702&url=http://www.duoyi.com"
+               target="_blank"><img src="http://images.2980.com/mail/bg_foot.png" alt="" style="border:0" /></a>
+        </div>
+    </div>
+</body>
+</html>

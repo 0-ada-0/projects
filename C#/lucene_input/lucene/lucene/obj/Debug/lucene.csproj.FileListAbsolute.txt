@@ -1,0 +1,16 @@
+D:\workspace\C#\lucene\lucene\lucene\bin\Debug\lucene.exe.config
+D:\workspace\C#\lucene\lucene\lucene\bin\Debug\lucene.exe
+D:\workspace\C#\lucene\lucene\lucene\bin\Debug\lucene.pdb
+D:\workspace\C#\lucene\lucene\lucene\bin\Debug\Lucene.Net.dll
+D:\workspace\C#\lucene\lucene\lucene\bin\Debug\Lucene.Net.pdb
+D:\workspace\C#\lucene\lucene\lucene\obj\Debug\lucene.csprojResolveAssemblyReference.cache
+D:\workspace\C#\lucene\lucene\lucene\obj\Debug\lucene.exe
+D:\workspace\C#\lucene\lucene\lucene\obj\Debug\lucene.pdb
+D:\workspace\C#\lucene_input\lucene\lucene\bin\Debug\lucene.exe.config
+D:\workspace\C#\lucene_input\lucene\lucene\obj\Debug\lucene.exe
+D:\workspace\C#\lucene_input\lucene\lucene\obj\Debug\lucene.pdb
+D:\workspace\C#\lucene_input\lucene\lucene\bin\Debug\lucene.exe
+D:\workspace\C#\lucene_input\lucene\lucene\bin\Debug\lucene.pdb
+D:\workspace\C#\lucene_input\lucene\lucene\bin\Debug\Lucene.Net.dll
+D:\workspace\C#\lucene_input\lucene\lucene\bin\Debug\Lucene.Net.pdb
+D:\workspace\C#\lucene_input\lucene\lucene\obj\Debug\lucene.csprojResolveAssemblyReference.cache

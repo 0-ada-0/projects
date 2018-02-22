@@ -1,0 +1,6 @@
+2016-11-01 17:32:49-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/valid_mobile?sign=d8112293483217977547471fa108af6358020c2c1edca1ab55df31ad3d6a0d84   account=940235644@qq.com&mobile=13268247555&
+response:{"code":10303,"msg":"帐号已存在","requestID":"96eeff8a994b4971bd752db54847c209","data":{}}
+2016-11-03 20:21:39-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/valid_mobile?sign=36992932eebc2a86ff586dfd7380fa87e1bb2551630b76e5c83b6dc301dd9b82   account=940235644@qq.com&gate=sw&
+response:{"code":10000,"msg":"参数错误(mobile)","requestID":"ef08c803966a46b2a21e016c8fb6cd61","data":{}}

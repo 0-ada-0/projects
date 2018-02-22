@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Common": "1.0.0-*",
+    "Google.Protobuf": "3.0.0",
+    "Microsoft.Extensions.Logging": "1.0.0",
+    "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
+    "MySql.Data": "7.0.5-IR21",
+    "NETStandard.Library": "1.6.0",
+    "System.Diagnostics.TextWriterTraceListener": "4.0.0"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}

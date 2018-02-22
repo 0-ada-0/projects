@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\workspace\c++\assign\assign\源.cpp(26): warning C4101: “a”: 未引用的局部变量
+  Assign.vcxproj -> D:\workspace\C++\Assign\Debug\Assign.exe
+  Assign.vcxproj -> D:\workspace\C++\Assign\Debug\Assign.pdb (Partial PDB)

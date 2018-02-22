@@ -1,0 +1,19 @@
+﻿{
+  "config": {
+    "isprog": false,
+    "redisconnection": "10.32.64.36:6379,password=duoyi@2016,defaultdatabase=15,connectTimeout=10000,name=IF2017"
+  },
+  "dc2016": {
+    "passport": "31e4b39cbce94e2e98af3f0357bdff9b"
+  },
+  "rsa": {
+    "private_key": "<私钥>",
+    "public_key": "<公钥>"
+  },
+  "file": {
+    "ipexts": "C:/webconfig/if2017/mydata4vipday2.datx"
+  },
+  "key": {
+    "signkey": "#erv$ed%@3l4"
+  }
+}

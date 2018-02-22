@@ -1,0 +1,24 @@
+2016-10-29 15:23:05-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/isexist_acct?sign=38fc2492d8cff9d41f99cd9e62251141f09277d8835223ea6b78ebb28b3c16e0   account=13268247551&checkactive=&
+response:{"code":10303,"msg":"帐号已存在","requestID":"3be77564c3a14659a7f596d36658d0e4","data":{}}
+2016-10-29 15:23:12-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/isexist_acct?sign=38fc2492d8cff9d41f99cd9e62251141f09277d8835223ea6b78ebb28b3c16e0   account=13268247551&checkactive=&
+response:{"code":10303,"msg":"帐号已存在","requestID":"19ab7fe967ef446980afed9f385bb0a4","data":{}}
+2016-10-29 15:34:02-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/isexist_acct?sign=cb95ed4f2a18df58fdf972fd489ae008ea0cc1cd6e2b0ede169a184ba58109b6   isvalid=&key=&mobile=13268247551&smscode=&
+response:{"code":-98,"msg":"未知系统错误：Object reference not set to an instance of an object.","requestID":"860154a2da054474a0938bed6d7602c5","data":{}}
+2016-10-29 15:36:15-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/isexist_acct?sign=cb95ed4f2a18df58fdf972fd489ae008ea0cc1cd6e2b0ede169a184ba58109b6   isvalid=&key=&mobile=13268247551&smscode=&
+response:{"code":-98,"msg":"未知系统错误：Object reference not set to an instance of an object.","requestID":"eb37eb65429f4bb6870529a5053b2fdf","data":{}}
+2016-10-29 15:36:45-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/isexist_acct?sign=cb95ed4f2a18df58fdf972fd489ae008ea0cc1cd6e2b0ede169a184ba58109b6   isvalid=&key=&mobile=13268247551&smscode=&
+response:{"code":-98,"msg":"未知系统错误：Object reference not set to an instance of an object.","requestID":"54832330d99b4858b1c69dd435f201d8","data":{}}
+2016-10-29 15:38:03-------------------------------------------------------------------------------------------
+request:http://127.0.0.1:40801/urs/isexist_acct?sign=cb95ed4f2a18df58fdf972fd489ae008ea0cc1cd6e2b0ede169a184ba58109b6   isvalid=&key=&mobile=13268247551&smscode=&
+response:{"code":-98,"msg":"未知系统错误：Object reference not set to an instance of an object.","requestID":"c91e41f6f00449cc8c28415e62492368","data":{}}
+2016-11-02 17:20:27-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/urs/isexist_acct?sign=38fc2492d8cff9d41f99cd9e62251141f09277d8835223ea6b78ebb28b3c16e0   account=13268247551&checkactive=&
+response:{"code":10303,"msg":"帐号已存在","requestID":"dd4d665cfb2249d6b622f4b39a818876","data":{}}
+2016-11-02 17:23:30-------------------------------------------------------------------------------------------
+request:http://10.32.64.36:20801/urs/isexist_acct?sign=0829f7f39bdde655cb6070a76dac4f66782b7b0ad61c369ca6aa7865167e7e0b   account=18268247551&checkactive=&
+response:{"code":0,"msg":"帐号不存在","requestID":"5a9eccf3e7f844ce871db01dca6382e3","data":{}}
